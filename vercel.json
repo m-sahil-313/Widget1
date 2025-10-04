@@ -1,0 +1,6 @@
+{
+  "version": 2,
+  "installCommand": "npm install --prefix 3d-site",
+  "buildCommand": "npm run build --prefix 3d-site",
+  "outputDirectory": "3d-site/dist"
+}
